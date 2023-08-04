@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'devise-jwt', '~> 0.10.0'
   spec.add_dependency 'dry-auto_inject', '~> 1.0', '>= 1.0.1'
-  spec.add_dependency 'dry-configurable', '~> 1.0', '>= 1.0.1'
+  spec.add_dependency 'dry-configurable', '~> 1.0', '>= 1.1.0'
 
   spec.add_development_dependency 'bundler', '~> 2.4', '>= 2.4.10'
   spec.add_development_dependency 'rake', '~> 13.0', '>= 13.0.6'
